@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+networkx
+scikit-learn
+scipy
+statsmodels
+
